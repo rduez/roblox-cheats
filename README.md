@@ -1,11 +1,11 @@
-# cheat-rivals-scripts
+# rivals-scripts
 Rivals Scripts [readme.md]
 
-*Tutorial:*
+# *Tutorial:*
 
 The cheat options are separated into several scripts
 
-Available Files:
-fly.lua
-noclip.lua
-aimbot.lua
+# {Files are not available now} Files:
+fly.lua,
+noclip.lua,
+aimbot.lua,
