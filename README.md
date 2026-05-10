@@ -5,7 +5,5 @@ Rivals Scripts [readme.md]
 
 The cheat options are separated into several scripts
 
-# {Files are not available now} Files:
-fly.lua,
-noclip.lua,
-aimbot.lua,
+# Files available :
+gemini hub.lua
