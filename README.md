@@ -1,9 +1,6 @@
 # rivals-scripts
-Rivals Scripts [readme.md]
 
-# *Tutorial:*
-
-The cheat options are separated into several scripts
+Use these scripts with caution; preferably use a VPN and a second account.
 
 # Files available :
-gemini hub.lua
+gemini hub v3.2.4.lua
